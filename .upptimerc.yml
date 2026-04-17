@@ -16,8 +16,6 @@ sites:
     url: https://hosting.tyis.co.jp
   - name: Redmine
     url: https://redmine.tyis.co.jp
-  - name: MRTG
-    url: https://mrtg.tyis.co.jp
 
 status-website:
   cname: status.tyis.co.jp
