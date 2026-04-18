@@ -23,3 +23,5 @@ i18n:
 status-website:
   cname: status.tyis.co.jp
   name: TOYO Internet Service Status
+  introTitle: "TOYO Internet Service Status"
+  introMessage: "Check the real-time status of TOYO Internet Services."
