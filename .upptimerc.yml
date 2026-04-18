@@ -2,20 +2,43 @@ owner: tyis
 repo: status-tyis-co-jp
 
 sites:
+  # Corporate
   - name: TOYO Internet Service
     url: https://www.tyis.co.jp
+    tags:
+      - Corporate
   - name: TOYO Consultancy Services Korea
     url: https://www.toyocs.net
-  - name: Recycle Pocket
-    url: https://www.recyclepocket.com
-  - name: 産廃見積.com
-    url: https://産廃見積.com
+    tags:
+      - Corporate
+
+  # Hosting Infrastructure
   - name: TOYO Cloud
     url: https://cloud.tyis.co.jp
+    tags:
+      - Hosting
   - name: TOYO Hosting
     url: https://hosting.tyis.co.jp
-  - name: Redmine
-    url: https://redmine.tyis.co.jp
+    tags:
+      - Hosting
+
+  # Self-operated Services
+  - name: データ消去の窓口
+    url: https://erasure.tyis.co.jp
+    tags:
+      - Service
+  - name: 東洋電子商会
+    url: https://shop.tyis.co.jp
+    tags:
+      - Service
+  - name: Recycle Pocket
+    url: https://www.recyclepocket.com
+    tags:
+      - Service
+  - name: 産廃見積.com
+    url: https://産廃見積.com
+    tags:
+      - Service
 
 i18n:
   footer: "&copy; 2026. TOYO Internet Service Co., Ltd. &#124; Love this planet&#10084;&#65039; Operated by TOYO Dev Team."
