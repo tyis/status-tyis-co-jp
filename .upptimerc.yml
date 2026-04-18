@@ -17,8 +17,9 @@ sites:
   - name: Redmine
     url: https://redmine.tyis.co.jp
 
+i18n:
+  footer: "&copy; 2026. TOYO Internet Service Co., Ltd. &#124; Love this planet&#10084;&#65039; Operated by TOYO Dev Team."
+
 status-website:
   cname: status.tyis.co.jp
   name: TOYO Internet Service Status
-  i18n:
-    footer: "&copy; 2026. TOYO Internet Service Co., Ltd. &#124; Love this planet&#10084;&#65039; Operated by TOYO Dev Team."
