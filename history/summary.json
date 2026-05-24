@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 491,
-    "timeWeek": 329,
-    "timeMonth": 366,
-    "timeYear": 359,
+    "time": 356,
+    "timeDay": 239,
+    "timeWeek": 313,
+    "timeMonth": 358,
+    "timeYear": 356,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 380,
-    "timeDay": 395,
-    "timeWeek": 828,
-    "timeMonth": 413,
-    "timeYear": 380,
+    "time": 376,
+    "timeDay": 179,
+    "timeWeek": 790,
+    "timeMonth": 412,
+    "timeYear": 376,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 656,
-    "timeDay": 736,
-    "timeWeek": 728,
-    "timeMonth": 697,
-    "timeYear": 656,
+    "time": 653,
+    "timeDay": 537,
+    "timeWeek": 717,
+    "timeMonth": 693,
+    "timeYear": 653,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 184,
-    "timeDay": 186,
-    "timeWeek": 170,
-    "timeMonth": 160,
-    "timeYear": 184,
+    "time": 185,
+    "timeDay": 228,
+    "timeWeek": 190,
+    "timeMonth": 164,
+    "timeYear": 185,
     "dailyMinutesDown": {
       "2026-04-15": 54
     }
@@ -79,19 +79,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/erasure.tyis.co.jp.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.73%",
-    "time": 182,
-    "timeDay": 175,
-    "timeWeek": 154,
-    "timeMonth": 175,
-    "timeYear": 182,
+    "uptimeYear": "99.74%",
+    "time": 179,
+    "timeDay": 91,
+    "timeWeek": 142,
+    "timeMonth": 172,
+    "timeYear": 179,
     "dailyMinutesDown": {
-      "2026-05-19": 79,
-      "2026-04-15": 54
+      "2026-04-15": 54,
+      "2026-05-19": 79
     }
   },
   {
@@ -100,19 +100,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.tyis.co.jp.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.73%",
-    "time": 182,
-    "timeDay": 175,
-    "timeWeek": 154,
-    "timeMonth": 175,
-    "timeYear": 182,
+    "uptimeYear": "99.74%",
+    "time": 179,
+    "timeDay": 91,
+    "timeWeek": 142,
+    "timeMonth": 172,
+    "timeYear": 179,
     "dailyMinutesDown": {
-      "2026-05-19": 79,
-      "2026-04-15": 54
+      "2026-04-15": 54,
+      "2026-05-19": 79
     }
   },
   {
@@ -121,16 +121,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.recyclepocket.com.ico",
     "slug": "recycle-pocket",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.85%",
-    "time": 355,
-    "timeDay": 439,
-    "timeWeek": 428,
-    "timeMonth": 372,
-    "timeYear": 355,
+    "uptimeYear": "99.86%",
+    "time": 352,
+    "timeDay": 205,
+    "timeWeek": 417,
+    "timeMonth": 370,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2026-05-19": 79
     }
@@ -146,11 +146,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 644,
-    "timeDay": 618,
-    "timeWeek": 606,
-    "timeMonth": 637,
-    "timeYear": 644,
+    "time": 647,
+    "timeDay": 805,
+    "timeWeek": 633,
+    "timeMonth": 645,
+    "timeYear": 647,
     "dailyMinutesDown": {}
   }
 ]
